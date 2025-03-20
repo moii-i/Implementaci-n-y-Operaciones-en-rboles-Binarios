@@ -2,10 +2,6 @@
 
 Este proyecto implementa un Árbol Binario de Búsqueda (ABB) en el lenguaje de programación C#. El programa permite insertar, buscar, eliminar (pendiente) y realizar los recorridos clásicos del árbol (preorden, inorden y postorden).
 
-Funcionalidades
-
-✅ Inserción de nodos en el árbol.✅ Búsqueda de un valor en el árbol.✅ Recorridos del árbol: Preorden, Inorden y Postorden.✅ Menú interactivo en consola.
-
 Instrucciones de uso
 
 Clona el repositorio:
